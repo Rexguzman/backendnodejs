@@ -16,7 +16,7 @@
 - [Arquitectura orientada a eventos](#arquitectura-orientada-a-eventos)
 - [Event Emiter](#event-emiter)
 - [Primer Servidor HTTP](#primer-servidor-http)
-- [Sreams](#sreams)
+- [Streams](#streams)
 - [Readable y Writable Streams](#readable-y-writable-streams)
 - [Duplex y Transforms streams](#duplex-y-transforms-streams)
 - [Uso de utilidades que tiene NodeJS](#uso-de-utilidades-que-tiene-nodejs)
@@ -381,7 +381,7 @@ console.log('Servidor en la url http://localhost:8000');
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Sreams 
+## Streams 
 
 **Introducción**:
 
